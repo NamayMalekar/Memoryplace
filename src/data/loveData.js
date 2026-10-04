@@ -319,27 +319,27 @@ const loveData = {
       date: "18.04.2026",
       title: "The Beginning & Proposal",
       description: "The unforgettable day everything started and my world became brighter.",
-      photo: "/images/memory-01.jpg",
+      photo: "/images/apr1.jpeg",
       tag: "the proposal phase 💍",
     },
     {
       date: "May 2026",
-      title: "Endless Conversations",
-      description: "Hours of late-night calls discovering all of our favorite things.",
+      title: "Laughs & Food Dates",
+      description: "Unfiltered joy, inside jokes, and sharing our favorite meals.",
+      photo: "/images/may7.jpeg",
+      tag: "pure laughter 🌸",
+    },
+    {
+      date: "June 2026",
+      title: "Deeper Connections",
+      description: "Holding hands, rainy day talks, and feeling safe in each other's arms.",
       photo: "/images/memory-02.jpg",
       tag: "getting closer 🌙",
     },
     {
-      date: "June 2026",
-      title: "Laughs & Food Dates",
-      description: "Unfiltered joy, inside jokes, and sharing our favorite meals.",
-      photo: "/images/memory-03.jpg",
-      tag: "pure laughter 🌸",
-    },
-    {
       date: "July 2026",
-      title: "Deeper Connections",
-      description: "Holding hands, rainy day talks, and feeling safe in each other's arms.",
+      title: "Endless Conversations",
+      description: "Hours of late-night calls discovering all of our favorite things.",
       photo: "/images/memory-04.jpg",
       tag: "falling deeper 🌧️",
     },
@@ -392,8 +392,8 @@ Happy five months, my prettiest girl. You will always have my entire heart.`,
   signature: "Made with all my love, always & forever.",
 
   // ── Music ──────────────────────────────────────────────────
-  musicSrc: "/music/our-song.mp3",
-  musicLabel: "our song",
+  musicSrc: "/music/Darkhaast.mp3",
+  musicLabel: "Darkhaast",
 };
 
 export default loveData;
