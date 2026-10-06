@@ -62,7 +62,7 @@ export default function Page07Letter({ onNext }) {
                 <p className="script text-3xl sm:text-4xl text-brown mb-2">
                   Special Delivery for You
                 </p>
-                
+
                 <p className="text-xs sm:text-sm text-brown/70 font-sans font-light max-w-md mb-8">
                   A handwritten love letter wrapped with all my sweetest thoughts from the past 5 months.
                 </p>
@@ -94,7 +94,7 @@ export default function Page07Letter({ onNext }) {
                     <span className="text-[10px] tracking-widest uppercase text-pink-600 font-sans">
                       to my darling
                     </span>
-                    <p className="script text-3xl sm:text-4xl text-deeprose">Dearest,</p>
+                    <p className="script text-3xl sm:text-4xl text-deeprose">Dearest Tanudiii,</p>
                   </div>
 
                   <button
@@ -190,11 +190,10 @@ export default function Page07Letter({ onNext }) {
                           <button
                             key={resp}
                             onClick={() => setResponseChoice(resp)}
-                            className={`px-3.5 py-1.5 rounded-full text-xs font-sans transition-all border ${
-                              isChosen
+                            className={`px-3.5 py-1.5 rounded-full text-xs font-sans transition-all border ${isChosen
                                 ? "bg-deeprose text-white border-deeprose shadow-sm"
                                 : "bg-white text-brown/70 border-pink-200 hover:bg-pink-50"
-                            }`}
+                              }`}
                           >
                             {isChosen && <Check size={12} className="inline mr-1" />}
                             {resp}
