@@ -181,12 +181,12 @@ const loveData = {
 
   // ── PAGE 04 — Our Memories (Gallery) ─────────────────────
   memories: [
-    { image: "/images/memory-01.jpg", caption: "that day we couldn't stop smiling.", orientation: "portrait" },
-    { image: "/images/memory-02.jpg", caption: "this smile of yours.", orientation: "landscape" },
-    { image: "/images/memory-03.jpg", caption: "one of my all-time favorite moments.", orientation: "portrait" },
-    { image: "/images/memory-04.jpg", caption: "you, being effortlessly gorgeous.", orientation: "landscape" },
-    { image: "/images/memory-05.jpg", caption: "still gives me butterflies.", orientation: "portrait" },
-    { image: "/images/memory-06.jpg", caption: "just us, in our happy bubble.", orientation: "landscape" },
+    { image: "/images/p4_1.jpg", caption: "that day we couldn't stop smiling.", orientation: "portrait" },
+    { image: "/images/p4_2.png", caption: "this smile of yours.", orientation: "landscape" },
+    { image: "/images/p4_4.jpg", caption: "one of my all-time favorite moments.", orientation: "portrait" },
+    { image: "/images/p4_3.jpg", caption: "you, being effortlessly gorgeous.", orientation: "landscape" },
+    { image: "/images/p4_5.jpg", caption: "still gives me butterflies.", orientation: "portrait" },
+    { image: "/images/p4_6.jpg", caption: "just us, in our happy bubble.", orientation: "landscape" },
   ],
 
   // ── PAGE 05 — Little Things I Love (Interactive Flip Cards) ─
@@ -333,28 +333,28 @@ const loveData = {
       date: "June 2026",
       title: "Deeper Connections",
       description: "Holding hands, rainy day talks, and feeling safe in each other's arms.",
-      photo: "/images/memory-02.jpg",
+      photo: "/images/apr3.jpeg",
       tag: "getting closer 🌙",
     },
     {
       date: "July 2026",
       title: "Endless Conversations",
       description: "Hours of late-night calls discovering all of our favorite things.",
-      photo: "/images/memory-04.jpg",
+      photo: "/images/p4_4.jpg",
       tag: "falling deeper 🌧️",
     },
     {
       date: "August 2026",
       title: "Home in Each Other",
       description: "Realizing that wherever you are is where I want to be.",
-      photo: "/images/memory-05.jpg",
+      photo: "/images/may6.jpeg",
       tag: "finding home 🏡",
     },
     {
       date: "18.09.2026",
       title: "Five Months Milestone",
       description: "Five months down, and an infinity of chapters left to write.",
-      photo: "/images/us-02.jpg",
+      photo: "/images/p4_2.png",
       tag: "happy five months 💖",
     },
   ],
@@ -387,7 +387,7 @@ Happy five months, my prettiest girl. You will always have my entire heart.`,
   ],
 
   // ── PAGE 09 — Final Surprise ──────────────────────────────
-  finalPhoto: "/images/us-02.jpg",
+  finalPhoto: "/images/last.jpg",
   finalDateRange: "18.04.2026 → ∞",
   signature: "Made with all my love, always & forever.",
 
